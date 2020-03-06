@@ -1,4 +1,4 @@
-NGINX Plus CICD Demo
+NGINX Plus CICD Lab
 ====================
 
 ### Last Updated: **02/06/2020**
@@ -15,7 +15,7 @@ NGINX Plus CICD Demo
 -   Tom Gamull \<[t.gamull\@f5.com](mailto:%3ct.gamull@f5.com)\>
 -   Jason Williams \<[ja.williams\@f5.com](mailto:%3cja.williams@f5.com)\>
 
-### Contents:
+## Contents:
 
 - [Introduction](0.Introduction/0.Introduction.md)
 - [Excerise 1.0. Creating Docker Images for Nginx Plus](1.0.creating-docker-images-for-nginx-plus/1.0.creating-docker-images-for-nginx-plus)
