@@ -21,9 +21,9 @@ NGINX Plus CICD Lab
 - [Exercise 1.0. Creating Docker Images for Nginx Plus](1.0.creating-docker-images-for-nginx-plus/1.0.creating-docker-images-for-nginx-plus)
   * Task 1: Run a pipeline to build NGINX Plus images
   * Task 2: GitLab CI/CD environment variables
-- [Excerise 2.0. Deploying Nginx Plus Web Server with CICD](2.0.deploying-nginx-plus-web-server-with-cicd/2.0.deploying-nginx-plus-web-server-with-cicd.md)
+- [Exercise 2.0. Deploying Nginx Plus Web Server with CICD](2.0.deploying-nginx-plus-web-server-with-cicd/2.0.deploying-nginx-plus-web-server-with-cicd.md)
   * Task 1: Make new code commit, push changes and deploy to Staging and Production
   * Task 2. Made new code commit, push changes using command line tools, and deploy
   * Task 3: **Optional:** Pull and run a Docker image from our private Docker Registry
-- [Excerise 3.0. Continuous Deployment for NGINX Plus Load Balancers](3.0.continuous-deployment-for-nginx-plus-load-balancers/3.0.continuous-deployment-for-nginx-plus-load-balancers.md)
+- [Exercise 3.0. Continuous Deployment for NGINX Plus Load Balancers](3.0.continuous-deployment-for-nginx-plus-load-balancers/3.0.continuous-deployment-for-nginx-plus-load-balancers.md)
   * Task 1: Make new code commit, push changes to a live running NGINX Plus Virtual Machine
