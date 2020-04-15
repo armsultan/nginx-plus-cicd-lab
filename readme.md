@@ -18,7 +18,7 @@ NGINX Plus CICD Lab
 ## Contents:
 
 - [Introduction](0.Introduction/0.Introduction.md)
-- [Exercise 1.0. Creating Docker Images for Nginx Plus](1.0.creating-docker-images-for-nginx-plus/1.0.creating-docker-images-for-nginx-plus/1.0.creating-docker-images-for-nginx-plus.md)
+- [Exercise 1.0. Creating Docker Images for Nginx Plus](1.0.creating-docker-images-for-nginx-plus/1.0.creating-docker-images-for-nginx-plus.md)
   * Task 1: Run a pipeline to build NGINX Plus images
   * Task 2: GitLab CI/CD environment variables
   * Task 3: Optional: Pull and run a Docker image from our private Docker Registry
