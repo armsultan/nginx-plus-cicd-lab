@@ -1,7 +1,7 @@
 NGINX Plus CICD Lab
 ====================
 
-### Last Updated: **02/09/2020**
+### Last Updated: **04/21/2020**
 
 ### Instructors at Agility 2020:
 
