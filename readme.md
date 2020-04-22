@@ -32,4 +32,4 @@ NGINX Plus CICD Lab
 -------------
 ### Navigation
 
-> [Next =>](./0.Introduction/0.Introduction.md)
+> [Next - Introduction =>](./0.Introduction/0.Introduction.md)
