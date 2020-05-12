@@ -5,9 +5,10 @@ NGINX Plus CICD Lab
 
 ### Instructors at Agility 2020:
 
--   Jason Williams
-    \<[ja.williams\@f5.com](mailto:%3cja.williams@f5.com)\>
+-   Jason Williams \<[ja.williams\@f5.com](mailto:%3cja.williams@f5.com)\>
 -   Armand Sultantono \<[armand\@f5.com](mailto:%3carmand@f5.com)\>
+-   Doug Gallarda \<[d.gallarda@f5.com](mailto:d.gallarda@f5.com)\>
+-   Chris Akker \<[c.akker@f5.com](mailto:c.akker@f5.com)\>
 
 ### UDF Lab Maintainers:
 
