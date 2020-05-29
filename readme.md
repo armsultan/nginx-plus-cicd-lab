@@ -25,7 +25,7 @@ NGINX Plus CICD Lab
   * Task 3: **Optional:** Pull and run a Docker image from our private Docker Registry
 - [Exercise 2.0. Deploying Nginx Plus Web Server with CICD](2.0.deploying-nginx-plus-web-server-with-cicd/2.0.deploying-nginx-plus-web-server-with-cicd.md)
   * Task 1: Make new code commit, push changes and deploy to Staging and Production
-  * Task 2. Made new code commit, push changes using command line tools, and deploy
+  * Task 2. **Optional:** Made new code commit, push changes using command line tools, and deploy
 - [Exercise 3.0. Continuous Deployment for NGINX Plus Load Balancers](3.0.continuous-deployment-for-nginx-plus-load-balancers/3.0.continuous-deployment-for-nginx-plus-load-balancers.md)
   * Task 1: Make new code commit, push changes to a live running NGINX Plus Virtual Machine
 
